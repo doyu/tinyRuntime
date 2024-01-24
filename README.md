@@ -1,1 +1,11 @@
-# tinyRuntime
+# Demystifying The Unstoppable Rise of Disposable Tiny Runtime
+
+## Abstract
+
+In the rapidly evolving field of machine learning (ML), a significant shift is underway from traditional, broad-scope frameworks like TensorFlow and PyTorch to more specialized, "disposable" runtime libraries. This paper aims to demystify this trend by analyzing the rise and practicality of such frameworks, exemplified by libraries like llama2.c, in the context of Pete Warden's insights on ML library design. We explore the emergence of the GGML framework and its impact on the ML landscape, contrasting it with the model-specific libraries that have gained popularity despite not using GGML.
+
+Our focus is to unpack the term "disposable" in the context of these libraries, highlighting their streamlined approach to specific ML models and tasks, such as inference or fine-tuning, rather than broad application. This specialization has led to significant advantages, including ease of use, simplified debugging and profiling, and minimal installation requirements. These benefits stand in stark contrast to the complexities and challenges faced by broader frameworks, particularly regarding performance optimization, dependency management, and adaptability to various platforms.
+
+Drawing parallels from the evolution of game engine development, we argue that the ML field is experiencing a similar trend, where the emphasis is shifting towards frameworks designed for specific tasks and models, as opposed to one-size-fits-all solutions. This paper also speculates on the future trajectory of ML frameworks, considering whether the industry will continue to favor specialized, disposable libraries or gravitate back towards more general, comprehensive frameworks.
+
+Our submission aims to provide insights into designing future ML compilation tasks, learning from the successes and limitations of both disposable runtimes and traditional frameworks. We propose a balanced approach, considering both the flexibility of generic frameworks and the efficiency of specialized, disposable libraries, for optimal ML development and deployment. This exploration is particularly relevant in the context of TinyML, where the need for efficient, low-footprint ML solutions is paramount.
