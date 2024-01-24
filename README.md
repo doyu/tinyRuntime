@@ -29,7 +29,7 @@ This is for [EMEA 2024 Call for Presentations and Posters](https://www.tinyml.or
 - [Why Nvidia’s AI Supremacy is Only Temporary](https://petewarden.com/2023/09/10/why-nvidias-ai-supremacy-is-only-temporary/)
 - [llama2.c, Inference Llama 2 in one file of pure C](https://github.com/karpathy/llama2.c)
 - [llama.cpp, Inference of LLaMA model in pure C/C++](https://github.com/ggerganov/llama.cpp)
-- [whispher.cpp](Port of OpenAI's Whisper model in C/C++)
+- [whispher.cpp, Port of OpenAI's Whisper model in C/C++](https://github.com/ggerganov/whisper.cpp)
 - [GGML](https://github.com/ggerganov/ggml)
 - [Useful Transformers](https://github.com/usefulsensors/useful-transformers)
 - [DNN in parallel & pipe](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=5007&context=smallsat)
